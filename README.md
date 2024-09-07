@@ -1,9 +1,7 @@
 
 <h3 align="center">Hi, I’m Pasindu Nayanajith,<br> a junior full-stack developer from Kurunegala, Sri Lanka. I create responsive websites and web applications focusing on usability and performance. Passionate about turning ideas into scalable, efficient solutions, I enjoy collaborating with others to bring projects to life. Let’s connect and make something great together!</h3>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=rmpasindu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+
 
 <p align="center">
     <a href="mailto:rmnpasindu@gmail.com" target="_blank" rel="noreferrer">
